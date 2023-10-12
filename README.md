@@ -1,2 +1,2 @@
 # SPATIALB
-Spatial-Temporal Intelligence Evaluation Benchmark <img src="/logo.jpg" width="30%" >
+Spatial-Temporal Intelligence Evaluation Benchmark <img src="/logo.jpg" width="20%" >
