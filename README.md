@@ -18,7 +18,7 @@ Prof. Zhe Jiang (Computer Science at University of Florida)
 
 Prof. Yiqun Xie (Geospatial Information Science at the University of Maryland, College Park)
 
-<img src="https://geog.umd.edu/sites/geog.umd.edu/files/styles/width320/public/Yiqun_profile_new.jpg?itok=nV68tzqV" style="width:150px">
+<img src="https://www.terpconnect.umd.edu/~xie/Yiqun_profile.jpg" style="width:150px">
 
 Prof. Xianfeng Yang (Civil and Environmental Engineering at the University of Maryland, College Park)
 
