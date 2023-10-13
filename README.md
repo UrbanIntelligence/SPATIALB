@@ -6,6 +6,7 @@ We plan to develop a <b>SPA</b>tial-<u><b>T</b></u>emporal <u><b>I</b></u>ntelli
 
 Our preliminary results were published in ICDM 2023, entitled "Self-supervised Pre-training for Robust and Generic Spatial-Temporal Representations", authored by Mingzhi Hu, Zhuoyun Zhong, Xin Zhang, Yanhua Li, Yiqun Xie, Xiaowei Jia, Xun Zhou, and Jun Luo. [project rep](https://github.com/mhu3/STPT) and [pdf](https://users.wpi.edu/~yli15) 
 
+## Team
 Our team include six faculty members in five institutions:
 
 Prof. Yanhua Li (Data Science at Worcester Polytechnic Institute)
