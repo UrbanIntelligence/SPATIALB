@@ -9,27 +9,39 @@ Our preliminary results were published in ICDM 2023, entitled "Self-supervised P
 ## Team
 Our team include six faculty members in five institutions:
 
-Prof. Yanhua Li (Data Science at Worcester Polytechnic Institute)
+[Prof. Yanhua Li](https://users.wpi.edu/~yli15/)
+ 
+Data Science at Worcester Polytechnic Institute
 
 <img src="https://www.wpi.edu/sites/default/files/styles/2x_766x766/public/faculty-image/yli15.jpg?itok=FpZharRy" style="width:150px">
 
-Prof. Zhe Jiang (Computer Science at University of Florida)
+[Prof. Zhe Jiang](https://www.jiangteam.org/) 
+
+Computer Science at University of Florida
 
 <img src="https://www.cise.ufl.edu/wp-content/uploads/2021/08/ZheJiang_7-25-2016_crop-scaled.jpg" style="width:150px">
 
-Prof. Yiqun Xie (Geospatial Information Science at the University of Maryland, College Park)
+[Prof. Yiqun Xie](https://geog.umd.edu/facultyprofile/xie/yiqun)
+
+Geospatial Information Science at the University of Maryland, College Park
 
 <img src="https://www.terpconnect.umd.edu/~xie/Yiqun_profile.jpg" style="width:150px">
 
-Prof. Xianfeng Yang (Civil and Environmental Engineering at the University of Maryland, College Park)
+[Prof. Xianfeng Yang](https://cee.umd.edu/clark/faculty/1706/Xianfeng-Terry-Yang)
+
+Civil and Environmental Engineering at the University of Maryland, College Park
 
 <img src="https://faculty.eng.umd.edu/sites/faculty.eng.umd.edu/files/profile_images/Terry.png" style="width:150px">
 
-Prof. Alireza Khani (Department of Civil, Environmental, and Geo-Engineering at University of Minnesota, Twin Cities)
+[Prof. Alireza Khani](https://cse.umn.edu/cege/faculty/alireza-khani)
+
+Department of Civil, Environmental, and Geo-Engineering at University of Minnesota, Twin Cities
 
 <img src="https://cse.umn.edu/sites/cse.umn.edu/files/khani-web.jpg" style="width:150px">
 
-Prof. Xin Zhang (Computer Science at San Diego State University)
+[Prof. Xin Zhang](https://xinzhang525.netlify.app/)
+
+Computer Science at San Diego State University
 
 <img src="https://xinzhang525.netlify.app/authors/admin/avatar_hu327b63c854a5d5e39aab8f280051da02_1155180_270x270_fill_q75_lanczos_center.jpg" style="width:150px">
 
