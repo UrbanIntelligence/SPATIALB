@@ -8,7 +8,7 @@ Our preliminary results were published in ICDM 2023, entitled "Self-supervised P
 
 Our team include six faculty members in five institutions:
 
-[Prof. Yanhua Li (Data Science at Worcester Polytechnic Institute)](https://users.wpi.edu/~yli15/img/yll.jpg)
+![Prof. Yanhua Li (Data Science at Worcester Polytechnic Institute)](https://users.wpi.edu/~yli15/img/yll.jpg)
 
 Prof. Zhe Jiang (Computer Science at University of Florida)
 
